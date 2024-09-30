@@ -1,0 +1,202 @@
+body {
+    padding: 0px;
+    margin: 0px;
+    border: 0px;
+    font-family: Tahoma;
+}
+
+header,
+footer {
+    padding: 36px 0px;
+    background-color: #b55400;
+    color: #ffffff;
+    text-align: center;
+}
+
+h1,
+h2 {
+    margin: 0px;
+    margin-bottom: 12px;
+}
+
+main {
+    height: 100100%;
+    padding: 36px 0px;
+    background-color: #00ffff;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-items: center;
+}
+
+form {
+    text-align: left;
+    display: flex;
+    flex-direction: column;
+}
+
+label {
+    font-size: 16px;
+    font-weight: bold;
+}
+
+input,
+select,
+textarea {
+    width: 480px;
+    height: 32px;
+    margin-bottom: 24px;
+    outline: none;
+    border-radius: 6px;
+    font-family: Tahoma;
+}
+
+textarea {
+    height: 95px;
+    font-family: Tahoma;
+}
+
+th,
+td {
+    border: 0.6px solid #000000;
+    text-align: center;
+    padding: 8px;
+}
+
+th {
+    background-color: #b55400;
+    color: #ffffff;
+}
+
+td {
+    background-color: #ffffff;
+}
+
+#body-procura {
+    padding: 58px 0px;
+}
+
+.btnAchei,
+.btnProcuro {
+    margin: 140px 0px;
+}
+
+.btnAcao {
+    width: 350px;
+    height: 65px;
+    padding: 35px 16px;
+    border-radius: 8px;
+    background-color: #ffff00;
+    color: #000000;
+    box-shadow: 4px 2px 2px #5f5f5f;
+    text-decoration: none;
+    font-size: 22px;
+    font-weight: bold;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.btnAcao:hover {
+    background-color: #ff7300;
+    color: #ffffff;
+}
+
+.icone {
+    width: 75px;
+}
+
+.boxAnimais {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+
+.gato,
+.cachorro {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.textAnimal {
+    font-size: 46px;
+}
+
+.icone-gato,
+.icone-cachorro {
+    width: 215px;
+}
+
+.btnCadastrar {
+    width: 480px;
+    height: 52px;
+    font-size: 18px;
+    border-radius: 8px;
+    background-color: #0000ff;
+    color: #ffffff;
+    cursor: pointer;
+}
+
+.btnCadastrar:hover {
+    background-color: #009808;
+}
+
+.link-voltar {
+    text-decoration: none;
+    font-size: 18px;
+    color: #ffffff;
+}
+
+.link-voltar:hover {
+    color: #ffaa29;
+}
+
+.table-pet {
+    display: grid;
+    grid-template-columns: auto;
+    justify-items: center;
+}
+
+.align-msg{
+    text-align: center;
+    margin: 3rem 0rem;
+}
+
+.color-msg-vazio{
+    padding: 1rem;
+    border-radius: 4px;
+    background-color: #ffaa29;
+    color: #000000;
+}
+
+.color-msg-ok{
+    padding: 1rem;
+    border-radius: 4px;
+    background-color: #00b303;
+    color: #000000;
+}
+
+.color-msg-error{
+    padding: 1rem;
+    border-radius: 4px;
+    background-color: #ff0000;
+    color: #ffffff;
+}
+
+.img-animais{
+    gap: 1.4rem;
+}
+
+.img-animal-search{
+    width: 95px;
+    height: 95px;
+    border-radius: 8px;
+}
+
+.img-animal-start{
+    width: 185px;
+    height: 185px;
+    border-radius: 8px;
+}
