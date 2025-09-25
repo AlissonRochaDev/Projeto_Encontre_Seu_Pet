@@ -14,3 +14,7 @@ A aplicação tem como finalidade facilitar o **Cadastro** e a **Procura de Anim
 - Banco de Dados relacional para persistência das informações.  
 
 ## 📂 Estrutura
+├── src/ # Código-fonte do sistema
+├── database/ # Scripts e configuração do banco de dados
+├── docs/ # Documentação do projeto
+└── README.md
