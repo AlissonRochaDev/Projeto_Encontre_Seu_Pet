@@ -1,5 +1,16 @@
-***Projeto de Curso Superior - Faculdade de Engenharia de Software.***
+# 🐾 Projeto de Curso Superior - Engenharia de Software
 
-Sistema criado para execução de um estudo de caso realizado no Curso Superior de Engenharia de Software, onde seria encessário criar qualquer aplicação com qualquer Linguagem de Programação, comunicando com um Banco de Dados.
+Este sistema foi desenvolvido como parte de um estudo de caso no **Curso Superior de Engenharia de Software**.  
+O objetivo era criar uma aplicação utilizando **qualquer linguagem de programação**, com integração a um **Banco de Dados**.
 
-A Regra de Negócio é um Cadastro e Procura de Animais de Estimação, onde quem perdeu possa procurar e quem achou algum Pet poder realizar o cadastro. 
+## 🎯 Objetivo
+A aplicação tem como finalidade facilitar o **Cadastro** e a **Procura de Animais de Estimação**:  
+
+- Quem **perdeu** um pet pode realizar a busca no sistema.  
+- Quem **encontrou** um pet pode cadastrá-lo para que o dono localize.  
+
+## 🛠 Tecnologias Utilizadas
+- Linguagem de Programação escolhida (flexível, conforme requisito do estudo de caso).  
+- Banco de Dados relacional para persistência das informações.  
+
+## 📂 Estrutura
