@@ -18,3 +18,8 @@ A aplicação tem como finalidade facilitar o **Cadastro** e a **Procura de Anim
 ├── database/ # Scripts e configuração do banco de dados
 ├── docs/ # Documentação do projeto
 └── README.md
+
+## 🚀 Como Executar
+1. Clone este repositório:
+   ```bash
+   git clone https://github.com/seu-usuario/seu-repositorio.git
