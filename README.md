@@ -22,4 +22,4 @@ A aplicação tem como finalidade facilitar o **Cadastro** e a **Procura de Anim
 ## 🚀 Como Executar
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
+   git clone https://github.com/seu-usuario/ProjetoEncontreSeuPet.git
